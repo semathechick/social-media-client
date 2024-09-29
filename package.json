@@ -1,7 +1,7 @@
 {
   "name": "css-frameworks-ca",
-  "version": "1.0.0",
-  "description": "Test",
+  "version": "1.0.1",
+  "description": "workflow ca",
   "main": "index.js",
   "type": "module",
   "scripts": {
