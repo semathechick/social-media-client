@@ -17,5 +17,3 @@ export async function loginListener(event) {
     alert("Either your username was not found or your password is incorrect");
   }
 }
-
-console.log("test");
